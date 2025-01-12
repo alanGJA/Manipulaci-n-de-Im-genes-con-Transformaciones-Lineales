@@ -26,3 +26,7 @@ Manual del usuario para entender cómo utilizar el programa y sus funcionalidade
 *diagramaDeFlujo.png*
 
 Diagrama de flujo que ilustra el funcionamiento general del programa.
+
+*Video de funcionamiento*
+
+https://youtu.be/1bhrkYa6fRY 
